@@ -18,6 +18,7 @@ else (Não)
 endif
 @enduml
 
+<img width="392" height="491" alt="image" src="https://github.com/user-attachments/assets/13be8749-86b9-4575-8430-aef70006f285" />
 
 ---
 
@@ -39,3 +40,5 @@ else (Não)
     end
 endif
 @enduml
+
+<img width="440" height="491" alt="image" src="https://github.com/user-attachments/assets/56c85f72-bb5d-4871-8408-7c6bdd39847e" />
