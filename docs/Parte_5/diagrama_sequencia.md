@@ -22,8 +22,6 @@ Service -> Service : Validar disponibilidade e intervalo
 Service -> Repository : salvar(sessao)
 activate Repository
 
-Repository -> Repository : Persiste os dados da sessão
-
 Repository --> Service : Sessão salva com sucesso
 deactivate Repository
 
@@ -36,3 +34,5 @@ deactivate Controller
 View --> Funcionario : Exibe mensagem de sucesso
 deactivate View
 @enduml
+
+<img width="1005" height="548" alt="image" src="https://github.com/user-attachments/assets/4c6a5666-0a17-484b-801d-84ea21d9f6b0" />
